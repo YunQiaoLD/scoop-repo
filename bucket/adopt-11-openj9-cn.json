@@ -1,5 +1,5 @@
 {
-    "description": "AdoptOpenJDK 11 OpenJ9 镜像版  (TUNA)",
+    "description": "AdoptOpenJDK 11 OpenJ9 镜像版 (TUNA)",
     "homepage": "https://adoptopenjdk.net",
     "version": "11.0.9-11-0.23.0",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0,EPL-2.0",
