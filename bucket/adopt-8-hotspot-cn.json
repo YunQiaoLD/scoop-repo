@@ -1,5 +1,5 @@
 {
-    "description": "AdoptOpenJDK 8 HotSpot 镜像版",
+    "description": "AdoptOpenJDK 8 HotSpot 镜像版 (TUNA)",
     "homepage": "https://adoptopenjdk.net",
     "version": "8u275-b01",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
