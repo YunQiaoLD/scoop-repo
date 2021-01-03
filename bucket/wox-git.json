@@ -18,7 +18,9 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/Wox-launcher/Wox"
+        "url": "https://api.github.com/repos/Wox-launcher/Wox/releases",
+        "jp": "$.[0].tag_name",
+        "regex": "v(?<version>[\\d.]+)"
     },
     "autoupdate": {
         "url": "https://github.com/Wox-launcher/Wox/releases/download/v$version/Wox-$version-full.nupkg",
