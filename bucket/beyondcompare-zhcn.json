@@ -9,10 +9,27 @@
     "architecture": {
         "64bit": {
             "url": "https://www.scootersoftware.com/BCompare-zh-4.3.7.25118.exe",
-            "hash": ""
+            "hash": "6d1ed0a3920c0c578b703ffc5141d569754fdb668721732f07ffa03a25754c43"
         }
     },
     "extract_dir": "Beyond Compare 4",
+    "installer": {
+        "args": [
+            "/SP-",
+            "/VERYSILENT",
+            "/NORESTART",
+            "/NOICONS",
+            "/TASKS=",
+            "/DIR=$dir"
+        ]
+    },
+    "uninstaller": {
+        "file": "unins000.exe",
+        "args": [
+            "/VERYSILENT",
+            "/NORESTART"
+        ]
+    },
     "bin": "Bcomp.exe",
     "shortcuts": [
         [
