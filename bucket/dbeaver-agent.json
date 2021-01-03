@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "description": "DBeaver EE企业版破解破解补丁",
+    "homepage": "https://github.com/gzzchh/DBE-Agent",
+    "license": "GPLv3",
+    "url": "https://github.com/gzzchh/DBE-Agent/releases/download/2.0.0/dbeaver-agent.jar",
+    "hash": "6a81d23f34311dc79a92f2538e21549cf0bfe30f0c30e84e7df8692c4d18d1b6",
+    "depends": "dbeaver-ee",
+    "notes": "需要自行为 DBeaver 添加参数才可以使用",
+    "checkver": {
+        "github": "https://github.com/gzzchh/DBE-Agent"
+    },
+    "autoupdate": {
+        "url": "https://github.com/gzzchh/DBE-Agent/releases/download/$version/dbeaver-agent.jar",
+        "hash": ""
+    }
+}
