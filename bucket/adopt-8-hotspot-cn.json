@@ -1,15 +1,15 @@
 {
     "description": "AdoptOpenJDK 8 HotSpot 镜像版 (TUNA)",
     "homepage": "https://adoptopenjdk.net",
-    "version": "8u275-b01",
+    "version": "8u282-b08",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/8/jdk/x64/windows/OpenJDK8U-jdk_x64_windows_hotspot_8u275b01.zip",
-            "hash": "cfce82307ef498a98155a44ca472873174094aa148ce33ca40b029a0d9bf8bee"
+            "url": "https://mirrors.tuna.tsinghua.edu.cn/AdoptOpenJDK/8/jdk/x64/windows/OpenJDK8U-jdk_x64_windows_hotspot_8u282b08.zip",
+            "hash": "e0862e9978a49f162f0d50a0347a189b33f90bad98207535df1969299d0e4167"
         }
     },
-    "extract_dir": "jdk8u275-b01",
+    "extract_dir": "jdk8u282-b08",
     "env_add_path": "bin",
     "env_set": {
         "JAVA_HOME": "$dir"

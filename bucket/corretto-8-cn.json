@@ -1,7 +1,7 @@
 {
     "description": "Amazon Corretto 8 镜像版 (INJDK)",
     "homepage": "https://aws.amazon.com/corretto/",
-    "version": "8.275.01.2",
+    "version": "8.282.08.1",
     "license": "GPL-2.0-only WITH Classpath-exception-2.0",
     "architecture": {
         "64bit": {

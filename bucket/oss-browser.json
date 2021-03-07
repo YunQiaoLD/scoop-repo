@@ -1,12 +1,12 @@
 {
-    "version": "1.13.0",
+    "version": "1.14.0",
     "description": "Aliyun OSS 文件管理器",
     "homepage": "https://github.com/aliyun/oss-browser",
     "license": "Apache-2.0",
     "architecture": {
         "64bit": {
-            "url": "https://oss-attachment.cn-hangzhou.oss.aliyun-inc.com/oss-browser/1.13.0/oss-browser-win32-x64.zip",
-            "hash": "924693b0fa5605dd151ef5a6c7f9752bd1a7248679ba35cad2dd5316ddd1c531",
+            "url": "https://oss-attachment.cn-hangzhou.oss.aliyun-inc.com/oss-browser/1.14.0/oss-browser-win32-x64.zip",
+            "hash": "c24d80878fc350211cf7fdf0f3fd92a3abbc93298454bd51b6e0247467282156",
             "extract_dir": "oss-browser-win32-x64"
         }
     },
